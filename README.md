@@ -1,0 +1,2 @@
+# CoGAN
+Co-operative GAN
